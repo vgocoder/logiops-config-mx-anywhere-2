@@ -48,5 +48,17 @@ sudo pacman -R logiops
 sudo systemctl enable --now logid
 ```
 
+## CIDs for Wireless Mouse MX Anywhere 2
+
+    0x0050 (Left Mouse Button)
+    0x0051 (Right Mouse Button)
+    0x0052 (Middle Mouse Button)
+    0x0053 (Back Button)
+    0x0056 (Forward Button)
+    0x005b (Left Scroll)
+    0x005d (Right Scroll)
+    0x00d7 (Switch Receivers)
+
+
 ## Thanks
 [PixlOne/logiops](https://github.com/PixlOne/logiops)
